@@ -4037,10 +4037,58 @@
              
     ],
     "cart":[
-        {
-        "id":0,
-        "name":"cart is empty"
-    }
+      {
+        "product_image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/Silver-Full-Rim-Aviator-John-Jacobs-JJ-Supreme-Steel-JJ-E13017--C2-Eyeglasses_john-jacobs-jj-e13017-c2-eyeglasses_g_787615_02_2022.jpg",
+        "rating_value": "4.8",
+        "rating_count": "9",
+        "product_name": "John Jacobs JJ",
+        "size": "Size: Medium",
+        "tags": "John Jacobs",
+        "product_price": "3200",
+        "strike_through": "4000",
+        "product_offer": "60% OFF. Use: EYECON",
+        "id": 1,
+        "category": "eyeglasses-mix"
+      },
+      {
+        "product_image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13636-c3-eyeglasses_G_7186.jpg",
+        "rating_value": "4.6",
+        "rating_count": "69",
+        "product_name": "Vincent Chase Online",
+        "size": "Size: Medium",
+        "tags": "Shark Tank",
+        "product_price": "1700",
+        "strike_through": "4000",
+        "product_offer": "60% OFF. Use: EYECON",
+        "id": 2,
+        "category": "eyeglasses-mix"
+      },
+      {
+        "product_image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e14008m-c3-eyeglasses_G_2506.jpg",
+        "rating_value": "4.7",
+        "rating_count": "16",
+        "product_name": "John Jacobs Online",
+        "size": "Size: Medium",
+        "tags": "John Jacobs",
+        "product_price": "3200",
+        "strike_through": "4200",
+        "product_offer": "60% OFF. Use: EYECON",
+        "id": 3,
+        "category": "eyeglasses-mix"
+      },
+      {
+        "product_image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e13774-c2-eyeglasses_lenskart-air-la-e13774-c2-eyeglasses_g_5335.jpg",
+        "rating_value": "4.6",
+        "rating_count": "68",
+        "product_name": "Lenskart Air Online",
+        "size": "Size: Medium",
+        "tags": "Air Flex",
+        "product_price": "999",
+        "strike_through": "",
+        "product_offer": "60% OFF. Use: EYECON",
+        "id": 4,
+        "category": "eyeglasses-mix"
+      }
 ],
 "users":[{
   "name":"vaibhav waghmare",
