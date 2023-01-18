@@ -4075,20 +4075,8 @@
         "product_offer": "60% OFF. Use: EYECON",
         "id": 3,
         "category": "eyeglasses-mix"
-      },
-      {
-        "product_image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e13774-c2-eyeglasses_lenskart-air-la-e13774-c2-eyeglasses_g_5335.jpg",
-        "rating_value": "4.6",
-        "rating_count": "68",
-        "product_name": "Lenskart Air Online",
-        "size": "Size: Medium",
-        "tags": "Air Flex",
-        "product_price": "999",
-        "strike_through": "",
-        "product_offer": "60% OFF. Use: EYECON",
-        "id": 4,
-        "category": "eyeglasses-mix"
       }
+     
 ],
 "users":[{
   "name":"vaibhav waghmare",
@@ -4096,3 +4084,4 @@
 }]
     
   }
+ 
